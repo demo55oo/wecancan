@@ -36,7 +36,7 @@ const SignleCategory = ({ data }) => {
                       }}><AiOutlineCompress className='full__secreen__button' /></button>
                     </div>
                   ))}
-                      </div>
+                 <div>
                    <p>{}</p>
               </div>
 
